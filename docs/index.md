@@ -1,5 +1,5 @@
 # 大屋 進之介 
-![プロフィール画像](https://github.com/tym-no-sakanakun/about-me/images/S__47988858.jpg)
+![プロフィール画像](https://github.com/tym-no-sakanakun/about-me/blob/main/images/S__47988858.jpg)
 #### プロフィール
 Oya-Shinnnosuke  
 東京海洋大学  
